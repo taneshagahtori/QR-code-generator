@@ -1,1 +1,1 @@
-# QR-code-generator
+*QR code generator built with HTML, CSS, and JS*
